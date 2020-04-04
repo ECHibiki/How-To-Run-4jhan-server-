@@ -1,5 +1,5 @@
 # BIG NOTE
-This package is hella old:
+This software is hella old:
 ```node -v 6.9.0 & npm -v 3.10.8```
 may be requirements for this to work. I also upgraded SQLite to 4.x
 
